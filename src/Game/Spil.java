@@ -1,6 +1,5 @@
 package Game;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 //Denne klasse indeholder spillogikken
